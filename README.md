@@ -13,6 +13,8 @@ padrão que aparece ao inicializar a aplciação, pode ver algumas configuraçõ
 configuração citada um poucoacima, então não é necessário pagar hospedagem obrigatóriamente, pode apenas abrir em seu
 dispositivo e deixá-lo aberto.
 
+![image](https://imgur.com/aEhen8n.png)
+
 ### 📝 SALVAMENTO DE DADOS
 - O principal diferencial desta aplicação é que os dados dos seus usuários são armazenados em um tipo específico de Banco de Dados,
 sendo ele o **(SQLITE)**, ele será hospedado na pasta da aplicação, ele será acessado sempre que um dado for modificado, é pedido para
