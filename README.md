@@ -52,4 +52,4 @@ aplicação.
 os dados abaixo foram puxados do Banco de Dados local onde está sendo hospedada
 a aplicação.
 
-[!image](https://imgur.com/8sx5CHt.png)
+![image](https://imgur.com/8sx5CHt.png)
