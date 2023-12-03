@@ -20,7 +20,7 @@ dispositivo e deixá-lo aberto.
 sendo ele o **(SQLITE)**, ele será hospedado na pasta da aplicação, ele será acessado sempre que um dado for modificado, é pedido para
 que não modifique ele sem ter o conhecimento do que está fazendo.
 
-![image](https://imgur.com/krqYi3H.png)
+![image](https://imgur.com/72VY0Qi.png)
 
 ### 💻 COMANDOS
 > /criar - Cria um perfil para um usuário Discord.
