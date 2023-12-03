@@ -1,0 +1,24 @@
+{
+  "BOT_CONFIGURATION": {
+    "NAME": "OmniBOT",
+    "TOKEN": "MTE2OTgxMjA1MTA2NjEwOTk5NA.GjQazA.feAcoCNKOk0rFlsLhHCcEb_ShfEqqjWRTOxZcQ",
+    "VISIBILITY": "ONLINE",
+    "STATE": "PLAYING",
+    "MESSAGE": "o Omnitrix!"
+  },
+  "OMINIBOT_CONFIGURATION": {
+    "PREFIX": "!",
+    "OWNER_ID": "422580488859811842",
+    "LOGS_CHANNEL": "1180499881178177588"
+  },
+  "OMNIBOT_ADDONS": {
+    "SUMO_CARD": {
+      "enabled": true,
+      "prefix": "sumo",
+      "subprefix": "daily",
+      
+      "dailyMin": 100,
+      "dailyMax": 350
+    }
+  }
+}
