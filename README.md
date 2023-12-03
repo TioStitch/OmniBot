@@ -22,6 +22,27 @@ que não modifique ele sem ter o conhecimento do que está fazendo.
 
 ![image](https://imgur.com/RtjRu0m.png)
 
+### ⚙️ CONFIGURAÇÃO
+- Além de muitos pontos positivos que esta aplicação já tem, a configuração é razoávelmente simples, além de ter sido feita em um
+ambiente bem simples de ser usado, o JSON **(JavaScript Object Notation)**, abaixo será mostrada uma parte da configuração desta
+aplicação.
+
+```java
+{
+  "BOT_CONFIGURATION": {
+    "NAME": "OmniBOT",
+    "TOKEN": "SEU TOKEN",
+    "VISIBILITY": "ONLINE",
+    "STATE": "PLAYING",
+    "MESSAGE": "o Omnitrix!"
+  },
+  "OMINIBOT_CONFIGURATION": {
+    "PREFIX": "!",
+    "OWNER_ID": "SEU ID",
+    "LOGS_CHANNEL": "O CANAL DE LOGS"
+  },
+```
+
 ### 💻 COMANDOS
 > /criar - Cria um perfil para um usuário Discord.
 > /perfil - Envia informações sobre o perfil de um usuário.
