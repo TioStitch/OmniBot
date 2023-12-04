@@ -44,8 +44,7 @@ aplicação.
 ```
 
 ### 💻 COMANDOS
-> /criar - Cria um perfil para um usuário Discord.
-> /perfil - Envia informações sobre o perfil de um usuário.
+![image](https://imgur.com/tSYGkyn.png)
 
 ### DEMONSTRAÇÃO
 - Uma demonstração do comando ``/perfil [usuário]``, algo bem simples,
